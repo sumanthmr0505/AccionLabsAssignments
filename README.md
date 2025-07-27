@@ -10,13 +10,13 @@ I – The Checkers Game
 ===========================
 For this exercise, implement the following steps:
 
-Navigate to https://www.gamesforthebrain.com/game/checkers/
-Confirm that the site is up
-Make five legal moves as orange:
-Include taking a blue piece
-Use “Make a move” as confirmation that you can take the next step
-Restart the game after five moves
-Confirm that the restarting had been successful
+ - Navigate to https://www.gamesforthebrain.com/game/checkers/
+ - Confirm that the site is up
+ - Make five legal moves as orange:
+ - Include taking a blue piece
+ - Use “Make a move” as confirmation that you can take the next step
+ - Restart the game after five moves
+ - Confirm that the restarting had been successful
 
 You’ll find that the game engine is predictable enough to allow for you to win a game reliably. So, you can try for this if you’re inclined and have a little time left over.
 
@@ -24,13 +24,13 @@ II – The Card Game
 ==========================
 For this exercise:
 
-Navigate to https://deckofcardsapi.com/
-Confirm the site is up
-Get a new deck
-Shuffle it
-Deal three cards to each of two players
-Check whether either has blackjack
-If either has, write out which one does
+ - Navigate to https://deckofcardsapi.com/
+ - Confirm the site is up
+ - Get a new deck
+ - Shuffle it
+ - Deal three cards to each of two players
+ - Check whether either has blackjack
+ - If either has, write out which one does
 
 Keep in mind that, for these exercises, quality wins over quantity. Showcase your coding craftsmanship and standards.
 
