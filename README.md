@@ -3,8 +3,8 @@ Accion Labs Assignments Solutions
 
 Solutions for following exercises:
 I built the solutions using Playwrite.
-For the Checkers Game, please refer to file - Playwright_Automation > tests > checkerGame.spec.js. Report can be found in Playwright_Automation > playwright-report > index.html
-For the Cards Game, please refer to file - Playwright_Automation > tests > blackJackGame.spec.js. I captured the result screenshots when I found the BlakJack and are in Playwright_Automation > zzFoundBlackJack1.png and zzFoundBlackJack2.png
+ - For the Checkers Game, please refer to file - Playwright_Automation > tests > checkerGame.spec.js. Report can be found in Playwright_Automation > playwright-report > index.html
+ - For the Cards Game, please refer to file - Playwright_Automation > tests > blackJackGame.spec.js. I captured the result screenshots when I found the BlakJack and are in Playwright_Automation > zzFoundBlackJack1.png and zzFoundBlackJack2.png
 
 I – The Checkers Game 
 ===========================
